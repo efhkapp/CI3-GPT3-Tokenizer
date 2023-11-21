@@ -1,6 +1,6 @@
 # GPT-3-Encoder-Decoder-PHP
-# Codeigniter 3 enable, by EFHK
-# Source GIT: https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP
+## Codeigniter 3 enable, by EFHK
+## Source GIT: https://github.com/CodeRevolutionPlugins/GPT-3-Encoder-PHP
 PHP BPE Text Encoder/Decoder for GPT-2 / GPT-3 // in Codeigniter 3
 
 ## About
